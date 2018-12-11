@@ -1,0 +1,13 @@
+pip install Flask
+
+Flask-Cors
+
+Flask-PyMongo
+
+Flask-RESTful
+
+Flask-WTF
+
+requests
+
+WTForms
